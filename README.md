@@ -57,6 +57,9 @@ Jest is configured to automatically find and run tests located in the project's 
 
 This process helps in identifying and fixing bugs or inconsistencies in the application's functionality, ensuring a robust and reliable tool for generating SVG logos.
 ## Screenshot
+
+Here is  a link to the how-to video!
+https://drive.google.com/file/d/1bB9HCh47_SHNlN8JzxO9mpq43JLuu9SR/view
 ![Screenshot](./logo.svg)
 
 ## Questions
