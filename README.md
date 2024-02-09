@@ -6,7 +6,7 @@ Alex's SVG Logo Generator is a Node.js command-line application that allows user
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Licence] (#license)
+- [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Screenshot](#screenshot)
