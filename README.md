@@ -43,7 +43,7 @@ Enter shape color (keyword or hex): Red
 
 ## License
 
-This project is does not have any licensed. 
+This project is does not have any license. 
 
 
 ## Contributing
