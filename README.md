@@ -31,14 +31,14 @@ To generate an SVG logo, follow these steps:
 
 Example:
 
-Enter up to three characters for the text: ABC
-Enter text color (keyword or hex): Blue
-Choose a shape:
-1) circle
-2) triangle
-3) square
-Enter choice: 1
-Enter shape color (keyword or hex): Red
+1. Enter up to three characters for the text: ABC
+2. Enter text color (keyword or hex): Blue
+3. Choose a shape:
+   1) circle
+   2) triangle
+   3) square
+          Enter choice: 1
+4. Enter shape color (keyword or hex): Red
 
 
 ## License
