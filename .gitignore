@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+
+# Output directory
+dist/
+
+# macOS
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Dependencies
+package-lock.json

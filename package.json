@@ -1,0 +1,17 @@
+{
+  "name": "Alex's_SVG_Logo_Generator",
+  "version": "1.0.0",
+  "description": "'Alex's SVG Logo Generator' is a cutting-edge tool designed to streamline the creation of SVG logos with minimal effort. Utilizing Node.js, this project combines intuitive command-line interfaces with powerful programming libraries, enabling users to generate custom, scalable vector graphics logos quickly and efficiently.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jsdom": "^24.0.0"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10",
+    "svg.js": "^2.7.1"
+  }
+}
